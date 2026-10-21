@@ -1,0 +1,42 @@
+:root {
+  /* Colors */
+  --berinjela: #2B1E3A;
+  --berinjela-2: #3A2B4C;
+  --ameixa-suave: #574A68;
+  --lilas-claro: #D9D1E3;
+  --texto-claro: #F1ECF4;
+  --nevoa: #EEEBF1;
+  --vidro: #FBFAFC;
+  --latao: #A88A45;
+  --latao-escuro: #7A6226;
+  --latao-claro: #D4B872;
+  --linha: rgba(43, 30, 58, 0.14);
+  --foto: #EEE7E2;
+  --tinta-fragrancia: #C9B92E;
+
+  /* Typography */
+  --font-serif: 'Libre Bodoni', Georgia, serif;
+  --font-sans: 'Hanken Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  --font-15: 15px;
+  --font-16: 16px;
+  --font-17: 17px;
+  --font-18: 18px;
+  --font-22: 22px;
+  --font-28: 28px;
+  --font-36: 36px;
+  --font-48: 48px;
+  --font-64: 64px;
+
+  /* Spacing */
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-40: 40px;
+  --space-64: 64px;
+  --space-96: 96px;
+
+  /* Border radius */
+  --radius-sm: 2px;
+}
